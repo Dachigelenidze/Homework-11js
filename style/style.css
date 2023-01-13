@@ -1,0 +1,40 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+ .splide__slide img {
+    width: 100%;
+    height: 450px;
+    padding: 50px;
+    object-fit: cover;
+  } 
+  .splide__pagination__page{
+    border: 2px solid black;
+  }
+
+.form{
+  display: flex;
+  text-align: center;
+  align-items: center;
+    
+}
+#reg-form {
+  width: 100%;
+  margin: 20px;
+  
+}
+.validation{
+
+    width: 100%;
+    margin: 10px auto;
+    text-align: center;
+    width: 50%;
+    font-size: 20px;
+  }
+ 
+
+ 
